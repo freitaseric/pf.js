@@ -2,7 +2,6 @@
 <img height=350 alt="Repo Banner - PureFramework" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=PureFramework&reversal=false&textBg=false&animation=twinkling&desc=The%20definitive%20javascript%20framework%20for%20build%20powerfull%20discord%20applications.&descSize=-5&fontColor=000"></img></a>
 
 <p align="center">
-  <br>
    <a href="https://github.com/freitaseric/pf.js">
     <img title="Star on GitHub" src="https://img.shields.io/github/stars/freitaseric/pf.js.svg?style=social&label=Star">
   </a>
