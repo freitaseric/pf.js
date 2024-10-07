@@ -14,5 +14,8 @@
   },
   "trustedDependencies": [
     "@biomejs/biome"
-  ]
+  ],
+  "dependencies": {
+    "loggings": "^1.6.0"
+  }
 }
