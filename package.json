@@ -6,9 +6,13 @@
     "build": "bun run build.ts"
   },
   "devDependencies": {
+    "@biomejs/biome": "^1.9.3",
     "@types/bun": "latest"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
-  }
+  },
+  "trustedDependencies": [
+    "@biomejs/biome"
+  ]
 }
